@@ -12,7 +12,7 @@ import json
 import requests
  
 # Update the apiKey as needed here:
-apiKey = "eyJhbGciOiJIUzI1NiJ9.eyJ0aWQiOjI5Njk3MzgwOCwiYWFpIjoxMSwidWlkIjozNjIwNzY1MywiaWFkIjoiMjAyMy0xMS0xN1QxNDoxMTo1MC4wMDBaIiwicGVyIjoibWU6d3JpdGUiLCJhY3RpZCI6NjM4NTU5MCwicmduIjoidXNlMSJ9.eYc7Q6gig_cnjWcoV6W5RxBCNYUZI17dJtAjCN8DMQo"
+apiKey = "" #<<< PUT KEY HERE 
 headers = {"Authorization" : apiKey}
 apiUrl = "https://api.monday.com/v2"
 
